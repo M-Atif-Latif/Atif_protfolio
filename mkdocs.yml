@@ -1,0 +1,137 @@
+# ===== BASIC CONFIGURATION =====
+site_name: Muhammad Atif Latif
+site_description: "AI & Software Engineer | Open-Source Contributor | Building Scalable Solutions"
+site_url: https://yourdomain.com  # Replace with your actual domain
+site_author: Muhammad Atif Latif
+copyright: "Copyright © 2024 - Muhammad Atif Latif"
+
+# ===== THEME CONFIGURATION =====
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - header.autohide
+    - navigation.expand
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+
+  font:
+    text: "Roboto"
+    code: "Fira Code"
+
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/account-circle
+
+  favicon: images/favicon.ico
+
+# ===== NAVIGATION STRUCTURE =====
+nav:
+  - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Data Projects:
+        - projects/Data Projects/FAOSTATS.md
+        - projects/Data Projects/Global_Market_Pro.md
+      - Ai Development: projects/Ai Development/chatbot.md
+  - Blog:
+      - Overview: blog/index.md
+      - Posts:
+          - AI in Agriculture: blog/posts/ai-in-agriculture.md
+          - AI in Finance: blog/posts/ai-in-finance.md
+          - AI in Healthcare: blog/posts/ai-in-healthcare.md
+          # Add more posts here as you publish
+
+  - Skills:
+      - Technologies: skills.md
+  - Experience:
+    - Overview: experience/index.md
+    - Work History: experience/work-history.md
+    - Education: experience/education.md
+    - Certifications: experience/certifications.md
+    - Resume: resume.md
+  - About Me: about.md
+
+# ===== MARKDOWN EXTENSIONS =====
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: "🔥"
+
+# ===== PLUGINS =====
+# plugins:
+#   - search
+#   - minify:
+#       minify_html: true
+#   - optimize:
+#       minify_js: true
+#       minify_css: true
+
+# ===== SOCIAL & EXTRAS =====
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/M-Atif-Latif
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/muhammad-atif-latif-13a171318
+    - icon: fontawesome/brands/kaggle
+      link: https://www.kaggle.com/muhammadatiflatif
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/mianatif5867?s=09
+    - icon: fontawesome/solid/envelope
+      link: mailto:muhammadatiflatif67@gmail.com
+
+  meta:
+    - property: "og:type"
+      content: "website"
+    - property: "og:image"
+      content: "https://yourdomain.com/images/social-preview.png"
+
+repo_url: https://github.com/M-Atif-Latif
+repo_name: "GitHub"
+edit_uri: edit/main/docs/
+
+extra_css:
+  - css/theme-overrides.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+
+extra_javascript:
+  - js/analytics.js
+  - js/custom-interactions.js
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js
+
+use_directory_urls: true

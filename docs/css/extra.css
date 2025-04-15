@@ -1,0 +1,45 @@
+/* Social links grid */
+.social-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  /* Button styling */
+  .social-grid .md-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
+    border-radius: 4px;
+    padding: 0.5em 1em;
+  }
+  
+  /* Primary button (Email) */
+  .social-grid .md-button--primary {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+  }
+  
+  .social-grid .md-button--primary:hover {
+    background-color: var(--md-primary-fg-color--light);
+  }
+  
+  /* Secondary buttons */
+  .social-grid .md-button:not(.md-button--primary) {
+    border: 1px solid var(--md-primary-fg-color);
+    color: var(--md-primary-fg-color);
+  }
+  
+  .social-grid .md-button:not(.md-button--primary):hover {
+    background-color: var(--md-primary-fg-color--light);
+    color: white;
+  }
+  
+  /* Icons */
+  .social-grid .md-typeset .twemoji {
+    height: 1.2em;
+    vertical-align: middle;
+  }

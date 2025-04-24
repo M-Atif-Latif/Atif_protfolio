@@ -21,7 +21,7 @@ Welcome to my professional portfolio. I architect intelligent systems that combi
 - **Languages & Frameworks**: Python, PyTorch, TensorFlow, LangChain,langraph,GitHub Pages
 
 - **AI Techniques**: RAG (Retrieval-Augmented Generation), RL, Prompt Engineering
-- **Data & Cloud**: SQL, Streamlit, Snowflake, AWS, Markdown / MkDocs,StreamlitCloud
+- **Data & Cloud**: Streamlit, Markdown / MkDocs,StreamlitCloud
 
 ---
 
@@ -36,11 +36,12 @@ Welcome to my professional portfolio. I architect intelligent systems that combi
 
 ## 🌐 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-muhammadatiflatif67%40gmail.com-blue?style=flat&logo=gmail)](mailto:muhammadatiflatif67@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Profile-red?style=flat&logo=gmail)](mailto:muhammadatiflatif67@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-atif-latif-13a171318)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/M-Atif-Latif)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/muhammadatiflatif)  
 [![X](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter)](https://x.com/mianatif5867?s=09)
+
 
 ---
 

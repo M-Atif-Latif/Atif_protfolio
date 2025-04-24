@@ -29,9 +29,9 @@ Includes PDF processing, vector search, and contextual memory.
 
 ## ⚙️ Tech Stack
 
-- **Languages**: Python, JavaScript, HTML/CSS, SQL  
-- **Frameworks**: Streamlit, FastAPI, Flask, LangChain  
-- **Tools**: Git, VS Code, Docker, GitHub Actions  
+- **Languages**: Python, C++  
+- **Frameworks**: Streamlit, LangChain, LangGraph  
+- **Tools**: Git, GitHub Actions  
 - **AI/ML**: PyTorch, Scikit-learn, OpenAI API, Hugging Face  
 - **Data**: Pandas, NumPy, Plotly, yFinance, FAOSTAT
 

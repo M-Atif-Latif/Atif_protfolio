@@ -15,9 +15,10 @@
 - Created multiple open-source AI tools and data analysis apps using Python, Streamlit, and REST APIs.
 
 ### Research & Development Intern (AI/NLP Focus)  
-**Freelance / Collaboration-Based Roles** | *2022–2023*  
-- Built and fine-tuned LLM-based prototypes for research agents and knowledge extraction.  
-- Designed NLP pipelines and AI agents for real-time document summarization and insight extraction.
+**Freelance | Collaboration-Based Roles** | *2022–2023*  
+- Developed and fine-tuned LLM-based prototypes focused on autonomous research agents and intelligent knowledge extraction.  
+- Engineered NLP pipelines and AI-powered agents for real-time document summarization and contextual insight generation.
+
 
 ---
 
@@ -34,27 +35,24 @@
 
 - **FAOSTATS App:** Interactive dashboard for global agricultural data analysis using FAOSTAT API.  
 - **Global Markets Pro:** Professional-grade market analytics tool for stock and index trends.  
-- **Autonomous AI Agent Framework:** Experimented with multi-agent LLM pipelines for document processing.  
+- **Autonomous AI Agent Framework:** Learning and implimenting the Ai Agents and Autonomous.  
 - **Open Source Contributor:** Actively contributing tools for AI/ML workflows and web-based analytics.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript  
+- **Languages:** Python, C++  
 - **AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch, Keras  
 - **NLP & LLMs:** LangChain, RAG, HuggingFace Transformers  
 - **Visualization:** Plotly, Seaborn, Matplotlib  
-- **Web Apps:** Streamlit, Flask, FastAPI  
-- **Databases:** SQLite, PostgreSQL, NoSQL  
-- **DevOps:** Git, GitHub Actions, Docker  
-- **Others:** OpenAI API, REST APIs, HTML/CSS
+- **Web Apps:** Streamlit  
 
 ---
 
 ## 📬 Contact
 
-- **Email:** muhammadatiflatif67@gmail.com  
+- **Email:** [E-Mail](muhammadatiflatif67@gmail.com ) 
 - **GitHub:** [github.com/M-Atif-Latif](https://github.com/M-Atif-Latif)  
 - **LinkedIn:** [linkedin.com/in/muhammad-atif-latif](https://www.linkedin.com/in/muhammad-atif-latif-13a171318)  
 - **Location:** Faisalabad,Punjab,Pakistan

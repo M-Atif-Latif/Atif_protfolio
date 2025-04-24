@@ -23,7 +23,7 @@ I don't just write code — I build **value-driven systems** that solve real-wor
   Turning raw data into elegant insights with Pandas, Plotly, Seaborn, and Streamlit.
 
 - 🌐 **Web-Based Dashboards & Tools**  
-  Deploying user-friendly applications using **Streamlit**, **Flask**, and **MkDocs** to showcase data interactively.
+  Deploying user-friendly applications using **Streamlit**, and **MkDocs** to showcase data interactively.
 
 - ⚙️ **Custom Automation Workflows**  
   Automating repetitive processes, generating reports, and optimizing performance across sectors like agriculture, finance, and education.
@@ -42,7 +42,7 @@ From a spark of interest in AI to building fully functional apps and dashboards 
 
 | 🔗 Platform | 📍 Link |
 |-------------|--------|
-| ✉️ **Email** | [muhammadatiflatif67@gmail.com](mailto:muhammadatiflatif67@gmail.com) |
+| ✉️ **Email** | [Contact Me](muhammadatiflatif67@gmail.com)  |
 | 💼 **LinkedIn** | [Visit My LinkedIn](https://www.linkedin.com/in/muhammad-atif-latif-13a171318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | 📊 **Kaggle** | [Explore My Work](https://www.kaggle.com/muhammadatiflatif) |
 | 🐦 **X (Twitter)** | [Follow Me](https://x.com/mianatif5867?s=09) |

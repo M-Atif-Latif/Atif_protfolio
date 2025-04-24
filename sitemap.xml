@@ -2,66 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yourdomain.com/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/about/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/resume/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/skills/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/Blog/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/Blog/Posts/ai-in-agriculture/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://yourdomain.com/Blog/Posts/ai-in-army/</loc>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/Blog/Posts/ai-in-finance/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/Blog/Posts/ai-in-healthcare/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/experience/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/experience/certifications/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/experience/education/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/experience/work-history/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/projects/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/projects/Ai%20Development/chatbot/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/projects/Data%20Projects/FAOSTATS/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://yourdomain.com/projects/Data%20Projects/Global_Market_Pro/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
 </urlset>

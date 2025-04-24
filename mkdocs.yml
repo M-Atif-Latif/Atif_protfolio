@@ -8,6 +8,7 @@ copyright: "Copyright © 2024 - Muhammad Atif Latif"
 # ===== THEME CONFIGURATION =====
 theme:
   name: material
+  logo: images/atif.jpg # Add logo path
   language: en
   features:
     - navigation.instant
@@ -42,11 +43,7 @@ theme:
     text: "Roboto"
     code: "Fira Code"
 
-  icon:
-    repo: fontawesome/brands/github
-    logo: material/account-circle
-
-  favicon: images/favicon.ico
+  favicon: images/atif.jpg # Updated favicon path
 
 # ===== NAVIGATION STRUCTURE =====
 nav:
@@ -54,25 +51,24 @@ nav:
   - Projects:
       - Overview: projects/index.md
       - Data Projects:
-        - projects/Data Projects/FAOSTATS.md
-        - projects/Data Projects/Global_Market_Pro.md
-      - Ai Development: projects/Ai Development/chatbot.md
+          - FAOSTATS: projects/Data Projects/FAOSTATS.md
+          - Global Market Pro: projects/Data Projects/Global_Market_Pro.md
+      - Ai Development:
+          - Chatbot: projects/Ai Development/chatbot.md
   - Blog:
-      - Overview: blog/index.md
-      - Posts:
-          - AI in Agriculture: blog/posts/ai-in-agriculture.md
-          - AI in Finance: blog/posts/ai-in-finance.md
-          - AI in Healthcare: blog/posts/ai-in-healthcare.md
-          # Add more posts here as you publish
-
+      - Overview: Blog/index.md
+      - AI in Agriculture: Blog/Posts/ai-in-agriculture.md
+      - AI in Finance: Blog/Posts/ai-in-finance.md
+      - AI in Healthcare: Blog/Posts/ai-in-healthcare.md
+      - AI in the Army: Blog/Posts/ai-in-army.md
   - Skills:
       - Technologies: skills.md
   - Experience:
-    - Overview: experience/index.md
-    - Work History: experience/work-history.md
-    - Education: experience/education.md
-    - Certifications: experience/certifications.md
-    - Resume: resume.md
+      - Overview: experience/index.md
+      - Work History: experience/work-history.md
+      - Education: experience/education.md
+      - Certifications: experience/certifications.md
+      - Resume: resume.md
   - About Me: about.md
 
 # ===== MARKDOWN EXTENSIONS =====
